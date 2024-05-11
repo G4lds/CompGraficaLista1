@@ -2,7 +2,7 @@
 // Bibliotecas incluídas
 #include <iostream>
 #include "glad.h"
-#include "glfw3.h"
+#include <GLFW/glfw3.h>
 #include <fstream>
 #include <sstream>
 #include <string>
