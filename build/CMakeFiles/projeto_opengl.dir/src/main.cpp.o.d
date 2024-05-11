@@ -133,7 +133,8 @@ CMakeFiles/projeto_opengl.dir/src/main.cpp.o: \
  /usr/include/KHR/khrplatform.h \
  /usr/lib/gcc/x86_64-redhat-linux/14/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/stdint-uintn.h \
- /usr/include/bits/stdint-least.h /usr/include/GLFW/glfw3.h \
+ /usr/include/bits/stdint-least.h \
+ /home/Galds/Documents/GitHub/CompGraficaLista1/src/glfw3.h \
  /usr/include/c++/14/fstream /usr/include/c++/14/bits/codecvt.h \
  /usr/include/c++/14/x86_64-redhat-linux/bits/basic_file.h \
  /usr/include/c++/14/x86_64-redhat-linux/bits/c++io.h \
